@@ -1,5 +1,7 @@
 # 遥感影像时空谱一体化融合系统
 
+Spatio-Temporal-Spectral Integrated Fusion System of Remote Sensing Images
+
 ## 系统简述
 
 具体实现形式为一个能够对遥感影像进行时空谱融合的**Windows桌面应用程序**。
